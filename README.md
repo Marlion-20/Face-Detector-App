@@ -1,5 +1,6 @@
 # Face-Detector-App
-Real time face detector app using python
+Real time fontal face detector app 
+
 ![Uploading 12.PNG…]()
 
 
