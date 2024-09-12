@@ -1,6 +1,6 @@
 # Face-Detector-App
 Real time fontal face detector app 
+![12](https://github.com/user-attachments/assets/a7580c4e-bd80-435f-9826-97c2cbcef8cd)
 
-![Uploading 12.PNG…]()
 
 
