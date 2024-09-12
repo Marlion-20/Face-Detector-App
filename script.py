@@ -3,7 +3,7 @@ from random import randrange
 # load some pre-trained data on face frontal from opencv (haar cascade algorithm)
 trained_face_data = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
-# choose an image to detect faces in
+# choose an image to detect faces in  
 image = cv2.imread("mult.PNG")
 
 # must convert to grayscale
